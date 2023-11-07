@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421366388919",
+    "project_id": "photofeed-576f0",
+    "storage_bucket": "photofeed-576f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421366388919:android:3e54a53b0eed6cd4699532",
+        "android_client_info": {
+          "package_name": "com.example.project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAxK0PmvQQzsUUI-A3lZXp2ALXqZ2Das"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
